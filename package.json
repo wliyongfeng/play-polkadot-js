@@ -1,0 +1,12 @@
+{
+  "name": "play-polkadot-js",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:wliyongfeng/play-polkadot-js.git",
+  "author": "Yongfeng LI <wliyongfeng@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@polkadot/api": "^5.2.1",
+    "dotenv": "^10.0.0"
+  }
+}
